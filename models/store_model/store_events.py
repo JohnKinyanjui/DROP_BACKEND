@@ -23,7 +23,6 @@ class AllStores(Resource):
 
 #Add a new Store
 class AddStore(Resource):
-    @jwt_required
     def post(self,id):
         data = request.json
         store_name = data['store_name']
