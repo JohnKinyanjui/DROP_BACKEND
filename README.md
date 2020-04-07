@@ -4,7 +4,8 @@ There are a few things i want to speak about in the below picture.
 
 ![alt text](https://github.com/JohnKinyanjui/DROP_BACKEND/blob/master/screen_shots/bar_1.JPG)
 
-<b><i>models</i> - is used to represent the item data  </b>
-<b><i>resources</i> - This contain 'app.py' which contains our end points </b>
-<>
+<b><i>models</i></b> - is used to represent the item data.
+
+<b><i>resources</i></b> - This contain 'app.py' which contains our end points.
+
 
