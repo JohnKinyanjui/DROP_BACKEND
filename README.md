@@ -1,6 +1,7 @@
 # DROP_BACKEND
 To run server write this in terminal when in the project directory:
-**run main.py**
+
+**python main.py**
 
 This is a an E-commerce flask app which can be used to add stores.
 A few things you can do with this api:
