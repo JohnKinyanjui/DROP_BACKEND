@@ -1,4 +1,7 @@
 # DROP_BACKEND
+To run server write this in terminal when in the project directory:
+**run main.py**
+
 This is a an E-commerce flask app which can be used to add stores.
 A few things you can do with this api:
  * Log in Authentication.
@@ -47,6 +50,7 @@ To add data through our endpoint:
 Ok thats all for now for any question you can find me in facebook:
 
 https://www.facebook.com/john.jake.754918/
+
 
 
 
